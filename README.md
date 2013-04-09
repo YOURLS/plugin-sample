@@ -1,7 +1,7 @@
 Here: title of your plugin
 ==========================
 
-Plugin for YOURLS `<here: min-version if applicable>`: 
+Plugin for YOURLS `<here: min-version if applicable>`. 
 
 What this plugin is for
 -----------------------
