@@ -19,3 +19,5 @@ function yourls_get_books(json) {
 		}
 	}
 }
+
+// I removed the 'yourls-always', so the toolbar always shows.
