@@ -1,23 +1,26 @@
-Title of your plugin
+YOURLS' Custom Tool Bar
 ====================
 
-Plugin for [YOURLS](http://yourls.org) `<here: min-version if applicable>`. 
+Plugin for [YOURLS](http://yourls.org) `YOURLS 1.7`. 
 
 Description
 -----------
-*Here*: replace this paragraph with a detailed explanation of what your plugin does: what it improves, what it adds, or the default behavior it replaces. Use clear and short sentences. Be convincing.
+Custom Tool Bar with new features such as:
+Ability to put ads in,
+5 Second countdown that will show a skip ad button after the 5 seconds.
 
 Installation
 ------------
-1. In `/user/plugins`, create a new folder named `<here: your plugin folder name>`.
-2. Drop these files in that directory.
-3. Go to the Plugins administration page ( *eg* `http://sho.rt/admin/plugins.php` ) and activate the plugin.
-4. Have fun!
+1. In `/user/plugins`, create a new folder named `custom-toolbar`.
+2. In that new folder, create 3 new folders named `css`, `img`, `js`.
+3. Upload all files to their correct folders.
+4. Go to the Plugins administration page ( *eg* `http://sho.rt/admin/plugins.php` ) and activate the plugin.
+5. Have fun!
 
 License
 -------
-*Here*: your license type. Feel free to use YOURLS' license, aka *"Do whatever the hell you want with it"*.
+YOURLS' license, aka *"Do whatever the hell you want with it"*.
 
 One more thing
 --------------
-*Here*: any other content, as needed. An important information should be contact information for bug reports or user questions, if you decide not to use Github issues in your plugin repository.
+This Tool Bar is a WIP(Work in progress), and current works as it should.  It should be noted that youtube videos do not currently display, and they will soon.  Skip Ad button takes you directly to the original URL (such as a youtube video).
