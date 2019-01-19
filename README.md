@@ -1,23 +1,24 @@
 Title of your plugin
 ====================
 
-Plugin for [YOURLS](http://yourls.org) `<here: min-version if applicable>`. 
+Plugin for [YOURLS](http://yourls.org) `1.7.3`. 
 
 Description
 -----------
-*Here*: replace this paragraph with a detailed explanation of what your plugin does: what it improves, what it adds, or the default behavior it replaces. Use clear and short sentences. Be convincing.
+This is a plugin for YOURLS that adds quick sharing to whatsapp web/api (phone or whatsapp desktop app)
 
 Installation
 ------------
-1. In `/user/plugins`, create a new folder named `<here: your plugin folder name>`.
-2. Drop these files in that directory.
+1. In `/user/plugins`, create a new folder named `whatsapp`.
+2. Drop `plugin.php` and `whatsapp.png` in it.
 3. Go to the Plugins administration page ( *eg* `http://sho.rt/admin/plugins.php` ) and activate the plugin.
 4. Have fun!
 
 License
 -------
-*Here*: your license type. Feel free to use YOURLS' license, aka *"Do whatever the hell you want with it"*.
+YOURLS: your license type. Feel free to use YOURLS' license, aka *"Do whatever the hell you want with it"*.
 
 One more thing
 --------------
-*Here*: any other content, as needed. An important information should be contact information for bug reports or user questions, if you decide not to use Github issues in your plugin repository.
+If you want to use the [web.whatsapp.com](https://web.whatsapp.com) api instead of api.whatsapp.com,
+change `https://api.whatsapp.com` with `https://web.whatsapp.com`.
