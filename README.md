@@ -21,4 +21,4 @@ YOURLS
 One more thing
 --------------
 If you want to use the [web.whatsapp.com](https://web.whatsapp.com) api instead of api.whatsapp.com,
-change `https://api.whatsapp.com` with `https://web.whatsapp.com`.
+replace `https://api.whatsapp.com` on line 33 with `https://web.whatsapp.com`.
