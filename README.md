@@ -1,4 +1,4 @@
-Title of your plugin
+Whatsapp Quickshare
 ====================
 
 Plugin for [YOURLS](http://yourls.org) `1.7.3`. 
@@ -16,7 +16,7 @@ Installation
 
 License
 -------
-YOURLS: your license type. Feel free to use YOURLS' license, aka *"Do whatever the hell you want with it"*.
+YOURLS
 
 One more thing
 --------------
