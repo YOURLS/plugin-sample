@@ -1,23 +1,24 @@
-Title of your plugin
-====================
+# Plugin Name
 
-Plugin for [YOURLS](http://yourls.org) `<here: min-version if applicable>`. 
+> Plugin short description
 
-Description
------------
-*Here*: replace this paragraph with a detailed explanation of what your plugin does: what it improves, what it adds, or the default behavior it replaces. Use clear and short sentences. Be convincing.
+Require [YOURLS](https://yourls.org) `<here: min-version if applicable>` and above.
 
-Installation
-------------
+## Usage
+
+:bulb: This is a great place for showing a few usage examples!
+
+## Installation
+
+:bulb: This is a great place for showing how to install the package. The common way is as below:
+
 1. In `/user/plugins`, create a new folder named `<here: your plugin folder name>`.
 2. Drop these files in that directory.
-3. Go to the Plugins administration page ( *eg* `http://sho.rt/admin/plugins.php` ) and activate the plugin.
+3. Go to the Plugins administration page (eg. `http://sho.rt/admin/plugins.php`) and activate the plugin.
 4. Have fun!
 
-License
--------
-*Here*: your license type. Feel free to use YOURLS' license, aka *"Do whatever the hell you want with it"*.
+## License
 
-One more thing
---------------
-*Here*: any other content, as needed. An important information should be contact information for bug reports or user questions, if you decide not to use Github issues in your plugin repository.
+:bulb: The license might be updated with your terms.
+
+This package is licensed under the [MIT License](LICENSE).
