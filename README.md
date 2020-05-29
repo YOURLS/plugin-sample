@@ -1,12 +1,14 @@
-# Plugin Name
+# <Plugin Name>
 
-> Plugin short description
+:bulb: Plugin short description: what it does
 
 Require [YOURLS](https://yourls.org) `<here: min-version if applicable>` and above.
 
 ## Usage
 
 :bulb: This is a great place for showing a few usage examples!
+
+:camera: If applicable, a screenshot of the admin interface or anything relevant is super helpful
 
 ## Installation
 
