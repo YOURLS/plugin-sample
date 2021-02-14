@@ -2,7 +2,7 @@
 
 :bulb: Plugin short description: what it does
 
-Require [YOURLS](https://yourls.org) `<here: min-version if applicable>` and above.
+Requires [YOURLS](https://yourls.org) `<here: min-version if applicable>` and above.
 
 ## Usage
 
