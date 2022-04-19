@@ -16,10 +16,10 @@ if( !defined( 'YOURLS_ABSPATH' ) ) die();
  Your code goes here.
  
  Suggested read:
- https://github.com/YOURLS/YOURLS/wiki/Plugins
- https://github.com/YOURLS/YOURLS/wiki/How-to-make-Plugins
- https://github.com/YOURLS/YOURLS/wiki/Coding-Standards
- https://github.com/YOURLS/YOURLS/wiki#for-developpers
+ https://docs.yourls.org/guide/extend/plugins.html
+ https://docs.yourls.org/development/plugins.html
+ https://docs.yourls.org/development/coding-standards.html
+ and in general the whole "Development" section on https://docs.yourls.org/
  
  Have fun!
  
