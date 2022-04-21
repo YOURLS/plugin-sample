@@ -1,4 +1,6 @@
-# <Plugin Name>
+# [Plugin Name] [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
+
+<!-- Once you have committed code, get your plugin listed in Awesome YOURLS ! See https://github.com/YOURLS/awesome-yourls -->
 
 :bulb: Plugin short description: what it does
 
